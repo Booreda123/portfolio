@@ -27,7 +27,7 @@ const Technologies = () =>  (
         <DiFirebase size='3rem'/>
         <ListContainer>
           <ListTitle>Problem Solving</ListTitle>
-          <ListParagraph>I am a very good problem solver/fast lerner</ListParagraph>
+          <ListParagraph>I am a very good problem solver/fast learner</ListParagraph>
         </ListContainer>
       </ListItem>
       
