@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Covid-19 Tracker',
-    description:"This is a website design to help people stay updated on the number covid cases all around the world.",
+    description:"This is a website design to help people stay updated on the number of covid cases all around the world.",
     image: '/images/covid.PNG',
     tags: ['React', 'JavaScript', 'Material-UI'],
     visit: 'https://github.com/Booreda123/covid19',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'E-Commerce',
-    description: "This is an E-commerce website that I build to showcase my skills in making E-commerce websites, the listings there were done manually and are not real.",
+    description: "This is an E-commerce website that I built to showcase my skills in making E-commerce websites, the listings there were done manually and are not real.",
       image: '/images/ecom.PNG',
       tags: ['React', 'Javascript', 'Material-ui', 'CommerceJS'],
     visit: 'https://github.com/Booreda123/ecom',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'Web3 ETH exchange',
-    description: "This is a website that allows users to exchange Ethereum within 30 second of clicking send, with the lowest fees on the Internet.",
+    description: "This is a website that allows users to exchange Ethereum within 30 seconds of clicking send, with the lowest fees on the Internet.",
     image: '/images/web3.PNG',
     tags: ['React', 'Solidity', 'TailwindCss'],
     source: 'https://booreda123.github.io/web3/',
