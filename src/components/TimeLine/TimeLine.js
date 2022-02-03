@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I believe that my purpose In life is to right code and make apps and software that will help people all over the wold make their lives easier 
+        I believe that my purpose In life is to right code and make apps and softwares that will help people all over the wold make their lives easier 
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
